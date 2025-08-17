@@ -13,8 +13,7 @@ The system enhances MRI images, segments suspicious regions, and highlights tumo
 ## 📂 Project Structure
 Brain_Tumour_Detection_Project/  
 │── main.m          # Main MATLAB script  
-│── README.md       # Project documentation  
-│── Report.pdf      # Detailed project report (to be added)  
+│── README.md       # Project documentation   
 └── Sample.jpg           # Input MRI image (user-provided)  
 
 ## 🚀 How to Run
