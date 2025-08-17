@@ -13,13 +13,12 @@ The system enhances MRI images, segments suspicious regions, and highlights tumo
 ## 📂 Project Structure
 Brain_Tumour_Detection_Project/  
 │── main.m          # Main MATLAB script  
-│── README.md       # Project documentation   
-└── Sample.jpg           # Input MRI image (user-provided)  
+│── README.md       # Project documentation    
+└── sample.jpg      # Sample MRI brain image (provided)  
 
 ## 🚀 How to Run
 1. Clone or download this repository.  
-2. Place an MRI brain image in the folder and rename it as **c.jpg**  
-   (or update the filename inside main.m).  
+2. Use the provided **sample.jpg** or replace it with your own MRI brain image.  
 3. Open MATLAB and run:  
    main  
 4. The program will display:  
@@ -28,6 +27,12 @@ Brain_Tumour_Detection_Project/
    - Tumour segmentation  
    - Bounding box  
    - Tumour outline overlay  
+
+## 🖼️ Sample Result
+Input Image → Tumour Detection Output  
+
+![Input MRI](sample.jpg)  
+*(Sample brain MRI used in testing. Run `main.m` to see tumour segmentation and detection results.)*  
 
 ## 🛠️ Tools & Technologies
 - MATLAB (R2016a or later)  
@@ -41,8 +46,11 @@ Brain_Tumour_Detection_Project/
 - Visualization with MATLAB plotting  
 
 ## 🔮 Future Work
+- Integration of **PCA + SVM classifiers** for tumour classification  
+- Use of **Convolutional Neural Networks (CNNs)** for deep learning-based detection  
 - Improved **segmentation accuracy** using adaptive thresholding  
 - Real-time processing for **clinical applications**  
+- Extending dataset with multiple MRI modalities (T1, T2, FLAIR)  
 
 ## 📖 Reference
 This work was developed as part of an **ECE Department Project**:  
