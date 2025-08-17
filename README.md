@@ -31,7 +31,7 @@ Brain_Tumour_Detection_Project/
 ## 🖼️ Sample Result
 Input Image → Tumour Detection Output  
 
-![Input MRI](./image/Sample.jpg)  
+![Input MRI](./image/Sample.png)  
 *(Sample brain MRI used in testing. Run `main.m` to see tumour segmentation and detection results.)*  
 
 ## 🛠️ Tools & Technologies
