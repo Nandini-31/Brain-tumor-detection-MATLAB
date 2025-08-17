@@ -15,7 +15,7 @@ Brain_Tumour_Detection_Project/
 │── main.m          # Main MATLAB script  
 │── README.md       # Project documentation  
 │── Report.pdf      # Detailed project report (to be added)  
-└── c.jpg           # Input MRI image (user-provided)  
+└── Sample.jpg           # Input MRI image (user-provided)  
 
 ## 🚀 How to Run
 1. Clone or download this repository.  
